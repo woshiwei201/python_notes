@@ -1,0 +1,6 @@
+#name|email|mobile|work
+chenwei|chenwei@163.com|1598284222|shenzhen
+wamghuanghuang|wanghuanghuang@126.com|1998284222|guangzhou
+xiaoming|xiaomi5ng@qq.com|1598938422|shanghai
+wangwu|chenweiwang@gmail|1342545455|shenzhen
+wanghuan|xiaowang@qq.com|1234567|beijing
